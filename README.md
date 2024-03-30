@@ -1,5 +1,5 @@
 ## About me
-Hey. my name is huh... anyway. I like osu! minecraft and more. i code a bit. So i create a osu!bot a website(but it's french)
+Hey. my name is... anyway. I like osu! minecraft and more. i code a bit. So i create a osu!bot a website(but it's french)
 ## What I love?
 I love video games and coding.
 ## What programming language you use?
