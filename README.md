@@ -6,6 +6,7 @@ Telegram bot, osu bot... website...
 I love video games and coding and trying to understand my dumb errors
 ## What programming language do you use?
 I use Python3, HTML, CSS, PHP, ~~JS~~
+
 I'm currently learning JavaScript.
 <!---
 Bibou1494/Bibou1494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
