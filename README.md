@@ -8,6 +8,9 @@ I love video games and coding and trying to understand my dumb errors
 I use Python3, HTML, CSS, PHP, ~~JS~~
 
 I'm currently learning JavaScript.
+
+Uptime status of my services:
+https://bibounetwork.betteruptime.com
 <!---
 Bibou1494/Bibou1494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
