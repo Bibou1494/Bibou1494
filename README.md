@@ -8,3 +8,6 @@ I love video games and coding and trying to understand my dumb errors
 I use Python3, HTML, CSS, PHP, ~~JS~~
 
 I'm currently learning JavaScript.
+
+## Do you use AI for your code??
+What is AI? I would never, idk what you are talking about, my code is not 99% AI nooooo never...
