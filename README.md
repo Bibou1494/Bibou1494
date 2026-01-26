@@ -17,7 +17,7 @@ If you'd like details or code for any project, ask — I can share code snippets
 
 ## Organizations
 - Member of: [IrisiumOfficiel](https://github.com/irisiumofficiel) — Role: Administrator  
-  [![Organization](https://img.shields.io/badge/organization-ORG_NAME-blue?style=flat-square)](https://github.com/ORG_NAME)
+  [![Organization](https://img.shields.io/badge/organization-IrisiumOfficiel-blue?style=flat-square)](https://github.com/IrisiumOfficiel)
 
 ## Tech & Languages
 - Comfortable with: HTML, CSS  
