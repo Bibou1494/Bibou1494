@@ -33,3 +33,11 @@ I use AI tools as assistants (for ideas and suggestions), but I try to understan
 ## Contact
 - GitHub: [@Bibou1494](https://github.com/Bibou1494)  
 - Professional Email: [gdbibou1494@irisium.party](mailto:gdbibou1494@irisium.party)
+
+## Github Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Bibou1494&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Bibou1494&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Bibou1494&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
