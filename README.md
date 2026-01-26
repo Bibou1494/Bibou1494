@@ -1,15 +1,35 @@
+# Hi — I'm Bibou1494
+
+Hey! I'm a hobbyist developer who loves video games (osu!, Minecraft) and coding. I build small bots and websites for fun and learning.
+
 ## About me
-Hey. my name is... anyway. I like osu! minecraft and more. i (vibe) code a little bit. So i created an osu!bot and a website(the website and the bot are now down.) I (vibe) coded a discord bot.
+- I like exploring ideas and building small projects.
+- I'm a "vibe coder": I enjoy prototyping and learning by doing.
+- I try to write code thoughtfully and to learn where AI helps and where I should rely on my own understanding.
 
-Yeah i'm a vibe coder... I'm trying to learn to not depend on AI because... That's cool
-## My project
-Telegram bot, osu bot... website...
-## What I love?
-I love video games and coding and trying to understand my dumb errors
-## What programming language do you use?
-I use ~~Python3~~, HTML, CSS, ~~PHP~~, ~~JS~~
+## Projects
+- osu! bot — A bot for osu! (status: down / archived).  
+- Telegram bot — Small bot project (status: down / archived).  
+- Discord bot — Built a bot for Discord (status: active).  
+- Website — A personal/project website (status: down / archived).
 
-I'm currently learning Java(yeah i'm torturing myself i think).
+If you'd like details or code for any project, ask — I can share code snippets or bring something back up.
 
-## Do you use AI for your code??
-What is AI? I would never, idk what you are talking about, my code is not 99% AI nooooo never...
+## Organizations
+- Member of: [IrisiumOfficiel](https://github.com/irisiumofficiel) — Role: Administrator  
+  [![Organization](https://img.shields.io/badge/organization-ORG_NAME-blue?style=flat-square)](https://github.com/ORG_NAME)
+
+## Tech & Languages
+- Comfortable with: HTML, CSS  
+- Used before / basic familiarity: Python 3, JavaScript, PHP  
+- Currently learning: Java
+
+## What I love
+I love video games, coding, and figuring out my dumb mistakes. Debugging is how I learn best.
+
+## About AI and my code
+I use AI tools as assistants (for ideas and suggestions), but I try to understand and review everything myself. If I use an AI-generated snippet, I make sure I understand it and adapt it.
+
+## Contact
+- GitHub: [@Bibou1494](https://github.com/Bibou1494)  
+- Professional Email: [gdbibou1494@irisium.party](mailto:gdbibou1494@irisium.party)
