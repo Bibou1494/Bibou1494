@@ -1,10 +1,10 @@
 # Hi — I'm Bibou1494
 
-Hey! I'm a hobbyist developer who loves video games (osu!, Minecraft) and coding. I build small bots and websites for fun and learning.
+Hey! I'm (not) a developer who loves video games (Geometry Dash, Minecraft...) and coding. I build small bots and websites for fun and learning.
 
 ## About me
 - I like exploring ideas and building small projects.
-- I'm a "vibe coder": I enjoy prototyping and learning by doing.
+- I'm a vibe coder
 - I try to write code thoughtfully and to learn where AI helps and where I should rely on my own understanding.
 
 ## Projects
@@ -28,7 +28,7 @@ If you'd like details or code for any project, ask — I can share code snippets
 I love video games, coding, and figuring out my dumb mistakes. Debugging is how I learn best.
 
 ## About AI and my code
-I use AI tools as assistants (for ideas and suggestions), but I try to understand and review everything myself. If I use an AI-generated snippet, I make sure I understand it and adapt it.
+I use AI tools as assistants (for ideas and suggestions), but I try to understand and review everything myself. If I use an AI-generated snippet, I make sure I understand it and adapt it. (And yes this README.md was also made by AI but shush)
 
 ## Contact
 - GitHub: [@Bibou1494](https://github.com/Bibou1494)  
