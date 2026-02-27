@@ -31,7 +31,6 @@ I love video games, coding, and figuring out my dumb mistakes. Debugging is how 
 I use AI tools as assistants (for ideas and suggestions), but I try to understand and review everything myself. If I use an AI-generated snippet, I make sure I understand it and adapt it. (And yes this README.md was also made by AI but shush)
 
 ## Contact
-- GitHub: [@Bibou1494](https://github.com/Bibou1494)  
 - Professional Email: [gdbibou1494@irisium.party](mailto:gdbibou1494@irisium.party)
 
 ## Github Stats
