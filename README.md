@@ -1,3 +1,7 @@
+Honestly not sure about what my account is about... I just realized that back when i created my github account, i didn't actually know what i was doing, i did random crappy repos of code that i found online, and stuff, i privated most of them but i'm honestly not even a real developper, mostly doing vibe coding unfortunatly as i don't have the skills yet, i have just a little in html and css but that's all... So just don't expect a lot from me... That's all... Anyways here is my real README:
+
+
+
 # Hi — I'm Bibou1494
 
 Hey! I'm (not) a developer who loves video games (Geometry Dash, Minecraft...) and coding. I build small bots and websites for fun and learning.
