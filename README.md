@@ -13,9 +13,8 @@ Hey! I'm (not) a developer who loves video games (Geometry Dash, Minecraft...) a
 
 ## Projects
 - osu! bot — A bot for osu! (status: down / archived).  
-- Telegram bot — Small bot project (status: down / archived).  
-- Discord bot — Built a bot for Discord (status: active).  
-- Website — A personal/project website (status: down / archived).
+- Anti-scam bots Discord bot — Creates a dedicated channel in a server that punishes anybody sending messages in it (status: active).  
+- Website — A personal/project website (status: active).
 
 If you'd like details or code for any project, ask — I can share code snippets or bring something back up.
 
